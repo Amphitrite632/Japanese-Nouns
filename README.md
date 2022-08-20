@@ -1,7 +1,7 @@
 # Japanese-Nouns
 
 ## これは何？
-Japanese-Nonusは日本語の名詞320万種類を集めたJSONファイルです。MITライセンスで公開されているので、どなたでもご自由にお使いいただけます。
+Japanese-Nounsは日本語の名詞320万種類を集めたJSONファイルです。MITライセンスで公開されているので、どなたでもご自由にお使いいただけます。
 
 ## 使用したリポジトリ
 - [mecab-ipadic-NEologd](https://github.com/neologd/mecab-ipadic-neologd)
